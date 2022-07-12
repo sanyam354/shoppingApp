@@ -65,3 +65,13 @@ In `.env` file create variables shown below and enter data into fields
 - Express
 - MongoDB
 - Mongoose
+
+![ShoppingApp1](https://user-images.githubusercontent.com/80158903/178564863-6bf3d6f0-7aa3-49be-9d0a-54bc4e9e4c8e.png)
+![ShoppingApp2](https://user-images.githubusercontent.com/80158903/178564927-b4c7cd89-4417-4c80-897f-0458c705275b.png)
+![ShoppingApp3](https://user-images.githubusercontent.com/80158903/178564971-e715ecd5-71fd-4b9b-b135-b978871056b3.png)
+![ShoppingApp4](https://user-images.githubusercontent.com/80158903/178565006-18575ee2-47ce-4906-bc8f-85e7ee5040c9.png)
+![ShoppingApp5](https://user-images.githubusercontent.com/80158903/178565040-c70744e6-c22f-40a7-a70c-461da8330c92.png)
+![ShoppingApp6](https://user-images.githubusercontent.com/80158903/178565072-c5e567f3-8f04-4fb4-9475-3bffe0a3b87a.png)
+![ShoppingApp7](https://user-images.githubusercontent.com/80158903/178565146-4b2908a9-7306-42a5-85ff-24d3e865612b.png)
+![ShoppingApp8](https://user-images.githubusercontent.com/80158903/178565170-f52fe4cf-5a5e-4204-a6cf-0654a735a93f.png)
+![ShoppingApp9](https://user-images.githubusercontent.com/80158903/178565191-1348a99e-0efa-46cc-bc3d-fb0987fb1bbd.png)
